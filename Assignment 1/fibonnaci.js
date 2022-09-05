@@ -18,4 +18,4 @@ const fibsRec = (num, fibArray = [0, 1]) => {
   return fibsRec(num - 1, fibArray);
 };
 
-console.log(fibsRec(8));
+// console.log(fibsRec(8));
